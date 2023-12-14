@@ -1,0 +1,7 @@
+.buttonWrapper {
+  display: flex;
+  gap: 30px;
+}
+.buttonWrapper button {
+  background-color: #fff;
+}
