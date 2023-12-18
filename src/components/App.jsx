@@ -37,7 +37,6 @@ export class App extends Component {
         <Section title="Leave your feedback">
           <Feedback
             leaveFeedback={this.leaveFeedback}
-            const
             options={Object.keys(this.state)}
             // options={['good', 'neutral', 'bad']}
           />
